@@ -1,1 +1,1 @@
-This is a repositoru for storing wiki files
+This is a repository for storing wiki files
